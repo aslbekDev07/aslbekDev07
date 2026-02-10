@@ -112,12 +112,12 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://readme-stats.clckblog.space/api?username=asilbekcodes&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=asilbekcodes&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://readme-stats.clckblog.space/api?username=asilbekDev07&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=asilbekDev07&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asilbekcodes&layout=compact&theme=radical" alt="asilbekcodes" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asilbekDev07&layout=compact&theme=radical" alt="asilbekDev07" />
 </p>
 
 ## 📫 Contact Me
